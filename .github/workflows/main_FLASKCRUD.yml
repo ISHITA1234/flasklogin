@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'FLASKCRUD'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4c048c4b36b149a499c325262eb480aa }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2d31f33b33b0441a9f30fba565164344 }}
